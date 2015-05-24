@@ -1,3 +1,9 @@
+libkpeople (0.3.0-1ubuntu1) trusty; urgency=medium
+
+  * Release to trusty
+
+ -- Diane Trout <diane@ghic.org>  Sat, 23 May 2015 20:55:45 -0700
+
 libkpeople (0.3.0-1) unstable; urgency=medium
 
   * New upstream release.
