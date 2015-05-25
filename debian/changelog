@@ -1,3 +1,9 @@
+libkpeople (0.3.0-1ubuntu2) trusty; urgency=medium
+
+  * Update symbols file
+
+ -- Diane Trout <diane@ghic.org>  Sun, 24 May 2015 16:03:05 -0700
+
 libkpeople (0.3.0-1ubuntu1) trusty; urgency=medium
 
   * Release to trusty
